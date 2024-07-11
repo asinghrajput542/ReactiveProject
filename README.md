@@ -64,7 +64,7 @@ Processor
 
 ## Reactive stream flow
 
-![Alt text](image.png)
+![Alt text](Reactive-Programming-Spring-Boot-Flux/image.png)
 
 ## Libraries for reactive programming
 
